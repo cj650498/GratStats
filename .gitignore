@@ -36,5 +36,8 @@ out/
 ### VS Code ###
 .vscode/
 
-# Exclude environment configuration files
+# Environment configuration files
 .env
+
+# MySQL Database files
+/database/mysql-data/
